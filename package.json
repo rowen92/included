@@ -1,0 +1,11 @@
+{
+  "name": "included",
+  "version": "1.0.0",
+  "description": "Check if the string in the first element of the array contains all of the letters of the string in the second element of the array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rowen",
+  "license": "MIT"
+}
